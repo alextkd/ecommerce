@@ -1,0 +1,34 @@
+.productRowView{
+height:100px;
+width:700px;
+text-align:center;
+}
+
+.productRowView img{
+left:20px;
+height:100px;
+width:100px;
+}
+
+.productRowView button{
+left:600px;
+width:100px;
+}
+
+.productRowView div,img,button{
+	position:absolute;
+}
+
+.productRowView .productName{
+left:130px;
+width:150px;
+}
+
+.productRowView .description{
+left:300px;
+width:180px
+}
+
+.productRowView .price{
+left:530px;
+}
